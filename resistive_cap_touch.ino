@@ -12,7 +12,7 @@
  * Copyright (c) 2015, Admar Schoonen
  * All rights reserved.
  *
- * License: New BSD License. See also license.txt
+ * License: New BSD License. See also LICENSE
  */
 
 #include "captouch.h"
