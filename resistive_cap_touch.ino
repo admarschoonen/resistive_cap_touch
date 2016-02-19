@@ -19,7 +19,7 @@
 #include "restouch.h"
 #include "configuration.h"
 
-#define BAR_N_SENSORS 4
+#define BAR_N_SENSORS 1
 #define BAR_LENGTH (40 * 4 / BAR_N_SENSORS)
 
 void serial_write(char *s)
